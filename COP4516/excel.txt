@@ -1,0 +1,8 @@
+2
+3 15 80 15
+3 A hello
+5 E bye
+2 G elephant
+2 20 100 30
+100 Z bread
+1 A rye
